@@ -1,0 +1,50 @@
+{
+  "Buy & Hold": {
+    "final_equity": 5.232373758473255,
+    "total_return": 4.2344675454914515,
+    "max_drawdown": 0.3476147116470151,
+    "annualized_return": 0.7363705372275355,
+    "annualized_volatility": 0.46481136074422463,
+    "sharpe_ratio": 1.5842352391054053,
+    "number_of_trades": 1,
+    "win_rate": 1.0,
+    "average_win": 4.2344675454914515,
+    "average_loss": 0.0
+  },
+  "MA": {
+    "final_equity": 1.7773312799145733,
+    "total_return": 0.7773312799145733,
+    "max_drawdown": 0.39687516381957755,
+    "annualized_return": 0.21132997626175443,
+    "annualized_volatility": 0.32844883909712097,
+    "sharpe_ratio": 0.6434182469412383,
+    "number_of_trades": 323,
+    "win_rate": 0.3715170278637771,
+    "average_win": 0.03379858246277255,
+    "average_loss": -0.015384080280176779
+  },
+  "ML": {
+    "final_equity": 0.9929257935824807,
+    "total_return": -0.007074206417519324,
+    "max_drawdown": 0.03271996012183054,
+    "annualized_return": -0.0023638309344342634,
+    "annualized_volatility": 0.014873160900461873,
+    "sharpe_ratio": -0.15893265394317468,
+    "number_of_trades": 101,
+    "win_rate": 0.5544554455445545,
+    "average_win": 0.001711512096807366,
+    "average_loss": -0.001879942321284941
+  },
+  "Hybrid": {
+    "final_equity": 1.3544118237032186,
+    "total_return": 0.3549538052253087,
+    "max_drawdown": 0.4328128102986645,
+    "annualized_return": 0.1065681771279674,
+    "annualized_volatility": 0.28618696872056065,
+    "sharpe_ratio": 0.3723725702969479,
+    "number_of_trades": 348,
+    "win_rate": 0.4482758620689655,
+    "average_win": 0.01996981744218857,
+    "average_loss": -0.013222641922718797
+  }
+}
